@@ -8,8 +8,8 @@ The project studies the effect of initialization on clustering performance by co
 
 ## Contents
 
-- `KMEANS-Zeinab.ipynb` : Complete notebook implementation
-- `Zeinab_Kmeans.pdf` : Final report
+- `KMEANS-new.ipynb` : Complete notebook implementation
+- `Zeinab_Kmeans(2).pdf` : Final report
 - Figures used throughout the experiments
 
 ## Implemented Methods
